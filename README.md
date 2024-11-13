@@ -4,7 +4,7 @@
 You can use the website to generate badges: https://shields.io/
 -->
 
-[![Website](https://img.shields.io/badge/-Website-38cb0d?style=flat&logo=aboutdotme&logoColor=white)](https://nurlan.dev)
+[![Portfolio Website](https://img.shields.io/badge/-Website-38cb0d?style=flat&logo=aboutdotme&logoColor=white)](https://www.nurlan.dev)
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Nurlan270)
 [![Telegram](https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram&logoColor=white&link=https://t.me/Nurlan_Ismailzade)](https://t.me/Nurlan_Ismailzade)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/27_nurlan/)
@@ -23,7 +23,8 @@ You can use the website to generate badges: https://shields.io/
 - 🫂 I’m looking for new friends;
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: I have a degree in civil engineering;
-- 📫 How to reach me: nurlanismzade@gmail.com;
+- 📫 How to reach me: nurlanismzade@gmail.com || me@nurlan.dev;
+- 🪐 More about me: [Portfolio Website](https://www.nurlan.dev);
 
 &nbsp;
 
