@@ -16,7 +16,6 @@
 - 🌱 I’m currently learning Laravel 11; 
 - 🫂 I’m looking for new friends;
 - 💬 Ask me about anything, I am happy to help;
-- ⚡️ Fun-Fact: I have a degree in civil engineering;
 - 📫 How to reach me: nurlanismzade@gmail.com;
 - 🪐 More about me: [Portfolio Website](https://www.nurlan.dev);
 
