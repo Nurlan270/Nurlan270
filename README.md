@@ -23,7 +23,7 @@ You can use the website to generate badges: https://shields.io/
 - 🫂 I’m looking for new friends;
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: I have a degree in civil engineering;
-- 📫 How to reach me: nurlanismzade@gmail.com || me@nurlan.dev;
+- 📫 How to reach me: nurlanismzade@gmail.com;
 - 🪐 More about me: [Portfolio Website](https://www.nurlan.dev);
 
 &nbsp;
